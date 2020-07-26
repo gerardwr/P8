@@ -8,6 +8,8 @@ DISCLAIMER
 ==========
 The content of this repo is in development, and may change at any time. Be Warned.
 
+My Starting Point
+==============
 The essence of this module is created bij @fanoush and extended by @Enaon.
 Special thanks to them for heir excellent work.
 
@@ -17,8 +19,11 @@ https://github.com/fanoush/ds-d6/tree/master/espruino/DFU/P8
 Ref : Code from @Enaon based on code from @fanoush:
 https://github.com/enaon/ninebot-one-nRF52/tree/master/p8-nb
 
-Addition that were made to the Module follows the Espruino Bangle syntax when possible.
-Ref : 
+My Additions
+=============
+My additions follow the Espruino Bangle syntax when possible, that saves me from making some documentation ;-)
+Ref : https://www.espruino.com/Reference#Bangle
+Special thanks to @gordon for sharing Espruino to the world and supporting it in a terrif way, kodos!
 
 Install the Espruino Module
 - Use the Espruino WebIde to upload the "P8Espruino...." file to "Flash (Allways)"
