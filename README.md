@@ -50,7 +50,7 @@ The example
 - Pressing the P8 button toggles the screen On and OFF
 - Espruino monitor shows some debug information
 
-![Image](https://github.com/gerardwr/P8/edit/master/README.md)
+![Image](https://https://github.com/gerardwr/P8/blob/master/Screendump%20Test%20code.png)
 
 ISSUES
 =======
