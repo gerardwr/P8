@@ -10,7 +10,8 @@ The content of this repo is in development, and may change at any time. Be Warne
 
 My Starting Point
 ==================
-The essence of this module is created bij @fanoush and extended by @Enaon.
+The essence of this module is created by @fanoush, @atc1441, and @enaon.
+
 Special thanks to them for their excellent work.
 
 Ref : Basic LCD driver code from @fanoush :
