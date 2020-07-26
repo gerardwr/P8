@@ -35,7 +35,8 @@ My Additions
 =============
 My additions follow the Espruino Bangle syntax when possible, that saves me from making some documentation ;-)
 Ref : https://www.espruino.com/Reference#Bangle
-Special thanks to @gordon for sharing Espruino to the world and supporting it in a terrif way, kodos!
+
+Special thanks to @gordon for sharing Espruino to the world and supporting it in a terrific way, kodos!
 
 Install the Espruino Module
 - Use the Espruino WebIde to upload the "P8Espruino...." file to "Flash (Allways)"
