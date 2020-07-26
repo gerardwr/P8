@@ -5,19 +5,23 @@ This Repo contains ongoing work to develop a generic Espruino Module to support 
 
 
 DISCLAIMER
-==========
+===========
 The content of this repo is in development, and may change at any time. Be Warned.
 
 My Starting Point
-==============
+==================
 The essence of this module is created bij @fanoush and extended by @Enaon.
-Special thanks to them for heir excellent work.
+Special thanks to them for their excellent work.
 
 Ref : Basic LCD driver code from @fanoush :
 https://github.com/fanoush/ds-d6/tree/master/espruino/DFU/P8
+If your interested in development for Nrf52832 devices there is a lot of excellent information in his Github.
 
 Ref : Code from @Enaon based on code from @fanoush:
 https://github.com/enaon/ninebot-one-nRF52/tree/master/p8-nb
+
+Ref : https://gitter.im/nRF51822-Arduino-Mbed-smart-watch/Lobby#
+I learned a lot on programmaing NRF52832 devices by following this Gitter
 
 My Additions
 =============
@@ -37,7 +41,7 @@ The example
 - Espruino monitor shows some debug information
 
 ISSUES
-======
+=======
 I develop for my own fun, so I lack the time to give a lot of support in using this code.
 
-But if you find a bug in the module, open an "Issue", because probably it's a bug for me too ;-)
+But if you find a bug in the module, or have some interesting changes/additions, open an "Issue".
