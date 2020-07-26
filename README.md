@@ -49,6 +49,7 @@ The example
 - The P8 screen shows some graphics for a few secs and then switches off.
 - Pressing the P8 button toggles the screen On and OFF
 - Espruino monitor shows some debug information
+- pretty simple, hey! But it's a start ;-)
 
 ![Image](https://raw.githubusercontent.com/gerardwr/P8/master/Screendump%20Test%20code.png)
 
