@@ -40,4 +40,4 @@ ISSUES
 ======
 I develop for my own fun, so I lack the time to give a lot of support in using this code.
 
-But if you find a bug in the module, open an "Issue", because probably it's annying for me too ;-)
+But if you find a bug in the module, open an "Issue", because probably it's a bug for me too ;-)
