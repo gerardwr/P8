@@ -20,8 +20,16 @@ If your interested in development for Nrf52832 devices there is a lot of excelle
 Ref : Code from @Enaon based on code from @fanoush:
 https://github.com/enaon/ninebot-one-nRF52/tree/master/p8-nb
 
+Ref : For flashing firmware to the P8 watch you use an Android App developed by @atc1441.
+https://github.com/atc1441/DaFlasherFiles
+
 Ref : https://gitter.im/nRF51822-Arduino-Mbed-smart-watch/Lobby#
 I learned a lot on programmaing NRF52832 devices by following this Gitter
+
+Ref : Information on Espruino, Javascript for microcontroller and Espruino hardware device
+http://www.espruino.com
+
+Many thanks to all of the above for sharing their amazing work.
 
 My Additions
 =============
